@@ -1,5 +1,5 @@
 %% Objectives:
-%  - 
+%  - estimate mass anomaly
 
 %% house-keeping
 

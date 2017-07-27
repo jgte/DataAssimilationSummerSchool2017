@@ -1,5 +1,5 @@
 %% Objectives:
-%  - 
+%  - plot differences betweeen disturbed and undisturbed orbits
 
 %% house-keeping
 
