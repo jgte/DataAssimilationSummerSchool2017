@@ -1,4 +1,3 @@
-addpath(fullfile(getenv('HOME'),'cloud','Common','github','orb','matlab'))
   
 dbstop if error
 d=dir('*.m');
